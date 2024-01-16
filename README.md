@@ -1,12 +1,12 @@
 # Calculadora en JavaScript
 Este proyecto es una calculadora simple desarrollada en JavaScript, permite realizar operaciones matemáticas básicas.
 
-## Tecnologías
+### Tecnologías
 - HTML5
 - CSS3
 - JavaScript
 
-## Cómo usar
+### Cómo usar
 - Descarga los archivos de este repositorio.
 - Abre el archivo index.html en tu navegador web.
 - Ya puedes comenzar a hacer cálculos
