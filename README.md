@@ -6,7 +6,7 @@ Este proyecto es una calculadora simple desarrollada en JavaScript, permite real
 - CSS3
 - JavaScript
 
-  ## Cómo usar
--- Descarga los archivos de este repositorio.
--- Abre el archivo index.html en tu navegador web.
--- ¡Comienza a hacer cálculos de inmediato!
+## Cómo usar
+- Descarga los archivos de este repositorio.
+- Abre el archivo index.html en tu navegador web.
+- Ya puedes comenzar a hacer cálculos
